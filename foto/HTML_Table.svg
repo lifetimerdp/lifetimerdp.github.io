@@ -1,0 +1,45 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="764.63" height="582.37" version="1.1" viewBox="0 0 202.31 154.09" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-.79829 -.74352)">
+  <g transform="matrix(.99997 0 0 1 -119.35 265.88)">
+   <g fill="none" stroke="#000000" stroke-width=".4">
+    <rect x="120.35" y="-264.92" width="201.92" height="153.68"/>
+    <path d="m120.35-264.92v153.68" style="paint-order:stroke markers fill"/>
+    <g stroke-opacity=".99111">
+     <path d="m120.35-244.37h201.92" style="paint-order:stroke markers fill"/>
+     <path d="m120.35-183.06h201.92" style="paint-order:stroke markers fill"/>
+     <path d="m120.35-200.13h201.92" style="paint-order:stroke markers fill"/>
+     <path d="m120.35-164.39h201.92" style="paint-order:stroke markers fill"/>
+     <path d="m120.35-231.42h201.92" style="paint-order:stroke markers fill"/>
+     <path d="m120.35-217.36h201.92" style="paint-order:stroke markers fill"/>
+     <path d="m120.35-128.59h201.92" style="paint-order:stroke markers fill"/>
+     <path d="m120.35-145.89h201.92" style="paint-order:stroke markers fill"/>
+    </g>
+   </g>
+   <g fill="#cccccc" stroke="#000000" stroke-opacity=".99111">
+    <path d="m120.67-224.43v-6.7021h201.45v13.404h-201.45z" stroke-width=".76568" style="paint-order:stroke markers fill"/>
+    <path d="m120.65-155.17v-8.9366h201.34v17.873h-201.34z" stroke-width=".7655" style="paint-order:stroke markers fill"/>
+    <path d="m120.68-120.04v-8.327h201.33v16.654h-201.33z" stroke-width=".76546" style="paint-order:stroke markers fill"/>
+   </g>
+   <path d="m120.74-254.69v-9.749h200.98v19.498h-200.98z" fill="#333333" stroke="#000000" stroke-opacity=".99111" stroke-width=".76481" style="paint-order:stroke markers fill"/>
+   <text x="125.36087" y="-251.13058" fill="#ffffff" font-family="'Noto Sans CJK HK'" font-size="8.4667px" stroke-width=".26458" word-spacing="0px" style="font-variant-ligatures:none;line-height:1.25" xml:space="preserve"><tspan x="125.36087" y="-251.13058" font-size="8.4667px" stroke-width=".26458"><tspan fill="#ffffff">table head</tspan> <tspan fill="#ff0000"/></tspan></text>
+   <text x="226.30412" y="-251.13058" fill="#ffffff" font-family="'Noto Sans CJK HK'" font-size="8.4667px" stroke-width=".26458" word-spacing="0px" style="font-variant-ligatures:none;line-height:1.25" xml:space="preserve"><tspan x="226.30412" y="-251.13058" fill="#ffffff" font-size="8.4667px" stroke-width=".26458">table head <tspan fill="#ff0000"/></tspan></text>
+   <path d="m191.69-264.92v153.68" fill="none" stroke="#000000" stroke-opacity=".99111" stroke-width=".4" style="paint-order:stroke markers fill"/>
+   <path d="m120.51-191.58v-8.2774h201.48v16.555h-201.48z" fill="#ffcc00" stroke="#000000" stroke-opacity=".99111" stroke-width=".77296" style="paint-order:stroke markers fill"/>
+   <g font-family="'Noto Sans CJK HK'" word-spacing="0px">
+    <g stroke-width=".26458">
+     <text x="123.99095" y="-151.3837" font-size="9.2604px" style="font-variant-ligatures:none;line-height:1.25" xml:space="preserve"><tspan x="123.99095" y="-151.3837" font-size="9.2604px" stroke-width=".26458"><tspan fill="#1a1a1a">table data</tspan></tspan></text>
+     <text x="223.04402" y="-151.3837" font-size="9.2604px" style="font-variant-ligatures:none;line-height:1.25" xml:space="preserve"><tspan x="223.04402" y="-151.3837" font-size="9.2604px" stroke-width=".26458"><tspan fill="#1a1a1a">table data</tspan></tspan></text>
+     <text x="189.26018" y="-187.53482" font-size="9.8778px" style="font-variant-ligatures:none;line-height:1.25" xml:space="preserve"><tspan x="189.26018" y="-187.53482" stroke-width=".26458"><tspan fill="#1a1a1a">table row</tspan></tspan></text>
+    </g>
+    <text transform="scale(1 .99996)" x="168.25685" y="-250.83635" font-size="8.4666px" stroke-width=".26458" style="font-variant-ligatures:none;line-height:1.25" xml:space="preserve"><tspan x="168.25685" y="-250.83635" fill="#ff0000" font-size="8.4666px" stroke-width=".26458">&lt;th&gt;</tspan></text>
+    <text transform="scale(1 .99996)" x="269.3053" y="-250.83635" font-size="8.4666px" stroke-width=".26458" style="font-variant-ligatures:none;line-height:1.25" xml:space="preserve"><tspan x="269.3053" y="-250.83635" fill="#ff0000" font-size="8.4666px" stroke-width=".26458">&lt;th&gt;</tspan></text>
+    <g stroke-width=".26458">
+     <text x="234.71745" y="-187.53482" font-size="9.8778px" style="font-variant-ligatures:none;line-height:1.25" xml:space="preserve"><tspan x="234.71745" y="-187.53482" fill="#ff0000" stroke-width=".26458">&lt;tr&gt;</tspan></text>
+     <text x="168.61928" y="-151.3837" font-size="9.2604px" style="font-variant-ligatures:none;line-height:1.25" xml:space="preserve"><tspan x="168.61928" y="-151.3837" fill="#ff0000" font-size="9.2604px" stroke-width=".26458">&lt;td&gt;</tspan></text>
+     <text x="268.17056" y="-151.3837" font-size="9.2604px" style="font-variant-ligatures:none;line-height:1.25" xml:space="preserve"><tspan x="268.17056" y="-151.3837" fill="#ff0000" font-size="9.2604px" stroke-width=".26458">&lt;td&gt;</tspan></text>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
